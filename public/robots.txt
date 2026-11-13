@@ -1,0 +1,23 @@
+
+# EraseOff Robots.txt
+# https://www.eraseoff.bond/
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://www.eraseoff.bond/sitemap.xml
